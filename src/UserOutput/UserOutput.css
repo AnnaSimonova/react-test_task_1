@@ -1,0 +1,8 @@
+.user_output span {
+    margin: 0.2rem;
+}
+
+.user_output {
+    display: flex;
+    justify-content: center;
+}
